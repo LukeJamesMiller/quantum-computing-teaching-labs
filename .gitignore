@@ -15,3 +15,5 @@ dist/
 artifacts/
 outputs/
 .DS_Store
+
+_incoming/
