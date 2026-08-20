@@ -1,0 +1,4 @@
+{
+  "name": "Quantum Computing Teaching Labs",
+  "postCreateCommand": "python -m pip install -e '.[dev]'"
+}
