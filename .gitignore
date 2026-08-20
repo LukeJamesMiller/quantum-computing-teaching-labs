@@ -17,3 +17,5 @@ outputs/
 .DS_Store
 
 _incoming/
+_archive/
+_private/
